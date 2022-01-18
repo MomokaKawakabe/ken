@@ -1,0 +1,25 @@
+@import "../color";
+.grey-line {
+  background: @b_theme_line;
+  height: 1px;
+  width: 100%;
+}
+.colored-line {
+  background: @b_theme_line_b;
+  height: 2px;
+  width: 100%;
+}
+.default-button {
+  background: @button_main;
+  color: @f_contrast;
+  font-size: 14px;
+  outline: none;
+  &:hover {
+    background: @button_main_active;
+  }
+}
+.is-required:before {
+  content: '*';
+  color: @f_contrast_active;
+  margin-right: 4px;
+}

@@ -67,3 +67,19 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+~~删除线~~
+
+*斜体*
+
+**加粗**  
+**斜体加粗**
+
+分割线
+***
+1. 第一项
+   - 第一小项
+2. 第二项
+3. 第三项
+
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
