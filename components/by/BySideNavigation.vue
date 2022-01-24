@@ -1,6 +1,6 @@
 <template>
   <el-menu
-    :default-active="activeIndex"
+    :default-active="1"
     class="side-navigation"
     background-color="#0061B4"
     text-color="#fff"

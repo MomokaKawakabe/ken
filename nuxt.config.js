@@ -22,14 +22,15 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '@/assets/css/global.less',
+    'mavon-editor/dist/css/index.css',
     'element-ui/lib/theme-chalk/index.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    '@/plugins/element-ui'
+    '@/plugins/element-ui',
+    '@/plugins/mavon-editor'
   ],
-
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
 
